@@ -1,2 +1,2 @@
 
-Many tool usefull for pentesting
+Many tool useful for pentesting
