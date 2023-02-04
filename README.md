@@ -1,2 +1,1 @@
-
-Many tool useful for pentesting
+Additional useful tool for pentesting
